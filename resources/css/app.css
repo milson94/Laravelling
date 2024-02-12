@@ -1,0 +1,10 @@
+.formy{
+    height: 400px;
+    display: flex;
+    background-color: rgb(164, 213, 255);
+    gap: 2rem;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
